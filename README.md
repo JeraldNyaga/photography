@@ -18,6 +18,6 @@ The index.html file contains the structure of the document and corresponding sty
 Incase of any challenge: reach me through email: angelwangui71@gmail.com
 
 # Github pages link found here
-The github pages link is found here in: Github pages
+The github pages link is found here in: [Github pages](https://jeraldnyaga.github.io/photography/)
 
 Copyright (c) [2026] [Angel Wangui]
