@@ -2,7 +2,9 @@
 
 # Authors of this project Angel Wangui.
 
-# Description The index.html file contains the structure of the document and corresponding styles.css contains the styles and images folder, all the folders that have been used. Through meticoulosly arranging the images through: -Navigation bar -Width -border-radius
+# Description 
+
+The index.html file contains the structure of the document and corresponding styles.css contains the styles and images folder, all the folders that have been used. Through meticoulosly arranging the images through: -Navigation bar -Width -border-radius
 
 # Built using: 
 - HTML 
